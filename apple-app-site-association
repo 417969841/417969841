@@ -3,15 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "7P2GYJJL52.com.WeWorld.WeCard",
-                "paths": [ "*" ]
-            },
-            {
-                "appID": "7P2GYJJL52.com.WeWorld.OkeyGel",
-                "paths": [ "*" ]
-            },
-            {
-                "appID": "8K3VASNBD5.com.Turkey.Okey101",
+                "appID": "389569K8NR.com.caocongli.rubbit",
                 "paths": [ "*" ]
             }
         ]
